@@ -1,1 +1,1 @@
-# study-buddy-
+This is a youth welfare project that allows student to concentrate effectively on academics using the Pomodoro technique. this application consists of a Pomodoro timer, a daily motivational quote and a to-do list that encompasses task yet to be done and which are already done. the project is in progress.convert to uppercase
